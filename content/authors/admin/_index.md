@@ -19,12 +19,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include engineered quantum systems, and quantum noise.
 
 interests:
-- Quantum noise
 - Engineered quantum systems
-- Quantum communication networks
+  - Quantum noise modelling
+  - Single-photon sources
+  - Driven-dissipative quantum dynamics
+  - Quantum communication networks
+- Mathematical methods development
+  - Holomorphic RKHS
+  - Applications of algebraic geometry in quantum optics
+  - Perturbative quantum field theory
+
+
 
 education:
   courses:
@@ -71,6 +79,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m David!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD candidate in the physics department at the University of Chicago. Formerly, before starting my PhD in Chicago, I was a NASA Quantum Academy fellow studying noise dynamics in quantum annealing devices. I firmly believe in the power of mathematics to inspire technological advances. If all goes well, my dream is to envision fascinating new protocols for stabilizing delicate quantum states by fiddling around with the mathematical structures behind quantum dynamics. The bottom line: technology via pure mathematics. 
+
+Much of my research focuses on combining the tools of algebraic geometry and state-of-the-art symbolic computing libraries to design quantum systems for use in quantum communication networks. My collaborators and I have developed novel methods for solving open quantum systems, some of which have led to the discovery of new exactly-solvable models in quantum optics, as well as protocols for exact generation of single photons in nonlinear conducting cavities.
+
+
