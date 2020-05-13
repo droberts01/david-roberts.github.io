@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Quantum Physicist
+role: PhD Candidate in Physics
 
 # Organizations/Affiliations
 organizations:
 - name: Chicago Quantum Exchange
+  institution: University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum noise
+- Engineered quantum systems
+- Quantum communication networks
 
 education:
   courses:
