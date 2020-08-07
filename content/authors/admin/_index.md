@@ -81,7 +81,7 @@ user_groups:
 
 Hi, I’m David!
 
-I am a PhD candidate in the physics department at the University of Chicago. Formerly, before starting my PhD in Chicago, I was a NASA Quantum Academy fellow studying noise dynamics in quantum annealing devices. I firmly believe in the power of mathematics to inspire technological advances. If all goes well, my dream is to envision fascinating new protocols for stabilizing delicate quantum states by fiddling around with the mathematical structures behind quantum dynamics. The bottom line: technology via pure mathematics. 
+I am a PhD candidate in the physics department at the University of Chicago. Formerly, before starting my PhD in Chicago, I was a NASA Quantum Academy fellow studying noise dynamics in quantum annealing devices. I firmly believe in the power of mathematics to inspire technological advances. If all goes well, my dream is to envision fascinating new protocols for stabilizing delicate quantum states by fiddling around with the mathematical structures behind quantum dynamics.
 
 Much of my research focuses on combining the tools of algebraic geometry and state-of-the-art symbolic computing libraries to design quantum systems for use in quantum communication networks. My collaborators and I have developed novel methods for solving open quantum systems, some of which have led to the discovery of new exactly-solvable models in quantum optics, as well as protocols for exact generation of single photons in nonlinear conducting cavities.
 
